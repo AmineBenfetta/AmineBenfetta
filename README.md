@@ -54,8 +54,6 @@
 ### 📫 **Get in Touch**
 - **Portfolio**: [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
 ---
 
 💡 _"Code. Create. Innovate."_ 🚀  
