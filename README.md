@@ -17,7 +17,7 @@
 ---
 
 ### 📫 **Get in Touch**
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
+- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 ---
 
