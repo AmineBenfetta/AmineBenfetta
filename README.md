@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🚀 Tech Enthusiast | 🎮 Gamer & Anime Fan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=AmineBenfetta&label=Profile%20Views&color=0e75b6&style=flat" alt="AmineBenfetta" />
 </p>
 
 ---
@@ -13,6 +13,12 @@
 - 🎮 Love coding, **video games**, and **anime**
 - 🚀 Always learning & improving my **development workflow**  
 
+---
+---
+
+### 📫 **Get in Touch**
+- **Portfolio**: [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 ---
 
 ### 🛠️ **Tech Stack**
@@ -49,12 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=nightowl" alt="yourusername's GitHub stats" />
 </p>
 
----
-
-### 📫 **Get in Touch**
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
----
 
 💡 _"Code. Create. Innovate."_ 🚀  
 
